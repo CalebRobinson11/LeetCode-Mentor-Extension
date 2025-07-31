@@ -50,5 +50,5 @@ LeetCode Mentor Chrome Extension
 
  ## Contact
  Caleb Robinson  
- Email: [clro26@uky.edu](mailto:clro26@uky.edu)  
+ Email: clro26@uky.edu 
  LinkedIn: [linkedin.com/in/calebrobinson2](https://www.linkedin.com/in/calebrobinson2)
